@@ -1,0 +1,2 @@
+# MudBlazor .net
+ darkTheme
